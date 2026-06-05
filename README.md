@@ -1,5 +1,5 @@
 # Weather App 
-
+[![Maintainability](https://qlty.sh/gh/mariqzm/projects/weather-app/maintainability.svg)](https://qlty.sh/gh/mariqzm/projects/weather-app)
 Веб-приложение для просмотра текущей погоды в любом городе мира.
 
 ## Описание
