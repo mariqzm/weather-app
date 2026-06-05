@@ -71,3 +71,4 @@ cityInput.addEventListener('keydown', (e) => {
     if (city) getWeather(city);
   }
 });
+// error handling improved
