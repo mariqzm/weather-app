@@ -23,6 +23,6 @@
 
 🔗 https://mariqzm.github.io/weather-app
 
-## Источник проекта
+## Источник идеи
 
-Проект выполнен на основе туториала из каталога [project-based-learning](https://github.com/practical-tutorials/project-based-learning#javascript).
+Тема проекта выбрана из каталога [project-based-learning](https://github.com/practical-tutorials/project-based-learning#javascript). Разработка, вёрстка и работа с OpenWeatherMap API выполнены самостоятельно, без готового туториала.
